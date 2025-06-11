@@ -23,12 +23,15 @@
 - arquivospython
   - insercaodados.py
   - tratamentodados.py
+
 - arquivossql
   - compensasao_tabelas.sql
   - procedure_empregosPorPais.sql
   - triggerAuditoria.sql
+
 - diagrama
   - diagramaCompensasao.pdf
+ 
 -kagglehub
   - archive
     - ai_job_dataset.csv
