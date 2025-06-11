@@ -11,8 +11,7 @@
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • 
- <a href="#-licença">Licença</a>
+ <a href="#-autor">Autor</a> •
 </p>
 
 <!-- ---------------------------------------------------------------------- -->
@@ -59,8 +58,8 @@ Você também pode acessar clicando nesse link do Github Pages:
 <!-- MODELO DE TECNOLOGIAS -->
 ## 🛠 Tecnologias
 
-#### **Banco de dados MYSQL**  ([MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;)
-#### **Python** ([Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;)
+#### **Banco de dados MYSQL**
+#### **Python**
 
 <!-- MODELO DE COMO CONTRIBUIR PARA O PROJETO -->
 ## 💪 Como contribuir para o projeto
