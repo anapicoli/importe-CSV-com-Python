@@ -1,0 +1,241 @@
+idEmpresa,nmEmpresa,setorIndustria
+211,Smart Analytics,Automotive
+235,TechCorp Inc,Media
+48,Autonomous Tech,Education
+137,Future Systems,Consulting
+25,Advanced Robotics,Media
+173,Neural Networks Co,Healthcare
+96,DataVision Ltd,Gaming
+68,Cloud AI Solutions,Healthcare
+202,Quantum Computing Inc,Government
+67,Cloud AI Solutions,Government
+224,Smart Analytics,Telecommunications
+234,TechCorp Inc,Manufacturing
+181,Predictive Systems,Automotive
+64,Cloud AI Solutions,Energy
+28,Advanced Robotics,Technology
+92,DataVision Ltd,Consulting
+191,Predictive Systems,Real Estate
+11,AI Innovations,Real Estate
+35,Algorithmic Solutions,Finance
+15,AI Innovations,Transportation
+14,AI Innovations,Telecommunications
+76,Cognitive Computing,Automotive
+196,Quantum Computing Inc,Automotive
+74,Cloud AI Solutions,Telecommunications
+8,AI Innovations,Healthcare
+97,DataVision Ltd,Government
+187,Predictive Systems,Government
+83,Cognitive Computing,Healthcare
+147,Future Systems,Retail
+27,Advanced Robotics,Retail
+71,Cloud AI Solutions,Real Estate
+86,Cognitive Computing,Real Estate
+183,Predictive Systems,Education
+212,Smart Analytics,Consulting
+50,Autonomous Tech,Finance
+239,TechCorp Inc,Telecommunications
+52,Autonomous Tech,Government
+143,Future Systems,Healthcare
+112,DeepTech Ventures,Government
+104,DataVision Ltd,Telecommunications
+95,DataVision Ltd,Finance
+209,Quantum Computing Inc,Telecommunications
+12,AI Innovations,Retail
+145,Future Systems,Media
+115,DeepTech Ventures,Media
+204,Quantum Computing Inc,Manufacturing
+229,TechCorp Inc,Energy
+84,Cognitive Computing,Manufacturing
+55,Autonomous Tech,Media
+232,TechCorp Inc,Government
+58,Autonomous Tech,Technology
+81,Cognitive Computing,Gaming
+205,Quantum Computing Inc,Media
+56,Autonomous Tech,Real Estate
+46,Autonomous Tech,Automotive
+20,Advanced Robotics,Finance
+185,Predictive Systems,Finance
+170,Neural Networks Co,Finance
+213,Smart Analytics,Education
+73,Cloud AI Solutions,Technology
+159,Machine Intelligence Group,Manufacturing
+153,Machine Intelligence Group,Education
+125,Digital Transformation LLC,Finance
+201,Quantum Computing Inc,Gaming
+88,Cognitive Computing,Technology
+41,Algorithmic Solutions,Real Estate
+162,Machine Intelligence Group,Retail
+122,Digital Transformation LLC,Consulting
+109,DeepTech Ventures,Energy
+199,Quantum Computing Inc,Energy
+227,TechCorp Inc,Consulting
+174,Neural Networks Co,Manufacturing
+231,TechCorp Inc,Gaming
+79,Cognitive Computing,Energy
+226,TechCorp Inc,Automotive
+155,Machine Intelligence Group,Finance
+144,Future Systems,Manufacturing
+225,Smart Analytics,Transportation
+1,AI Innovations,Automotive
+131,Digital Transformation LLC,Real Estate
+43,Algorithmic Solutions,Technology
+108,DeepTech Ventures,Education
+193,Predictive Systems,Technology
+161,Machine Intelligence Group,Real Estate
+222,Smart Analytics,Retail
+30,Advanced Robotics,Transportation
+77,Cognitive Computing,Consulting
+217,Smart Analytics,Government
+45,Algorithmic Solutions,Transportation
+2,AI Innovations,Consulting
+192,Predictive Systems,Retail
+7,AI Innovations,Government
+240,TechCorp Inc,Transportation
+172,Neural Networks Co,Government
+44,Algorithmic Solutions,Telecommunications
+148,Future Systems,Technology
+57,Autonomous Tech,Retail
+167,Neural Networks Co,Consulting
+31,Algorithmic Solutions,Automotive
+91,DataVision Ltd,Automotive
+118,DeepTech Ventures,Technology
+180,Neural Networks Co,Transportation
+107,DeepTech Ventures,Consulting
+165,Machine Intelligence Group,Transportation
+178,Neural Networks Co,Technology
+13,AI Innovations,Technology
+160,Machine Intelligence Group,Media
+182,Predictive Systems,Consulting
+40,Algorithmic Solutions,Media
+78,Cognitive Computing,Education
+219,Smart Analytics,Manufacturing
+164,Machine Intelligence Group,Telecommunications
+130,Digital Transformation LLC,Media
+42,Algorithmic Solutions,Retail
+10,AI Innovations,Media
+220,Smart Analytics,Media
+228,TechCorp Inc,Education
+113,DeepTech Ventures,Healthcare
+203,Quantum Computing Inc,Healthcare
+175,Neural Networks Co,Media
+157,Machine Intelligence Group,Government
+103,DataVision Ltd,Technology
+37,Algorithmic Solutions,Government
+105,DataVision Ltd,Transportation
+59,Autonomous Tech,Telecommunications
+127,Digital Transformation LLC,Government
+54,Autonomous Tech,Manufacturing
+152,Machine Intelligence Group,Consulting
+18,Advanced Robotics,Education
+51,Autonomous Tech,Gaming
+98,DataVision Ltd,Healthcare
+60,Autonomous Tech,Transportation
+75,Cloud AI Solutions,Transportation
+156,Machine Intelligence Group,Gaming
+39,Algorithmic Solutions,Manufacturing
+17,Advanced Robotics,Consulting
+151,Machine Intelligence Group,Automotive
+6,AI Innovations,Gaming
+140,Future Systems,Finance
+169,Neural Networks Co,Energy
+223,Smart Analytics,Technology
+149,Future Systems,Telecommunications
+66,Cloud AI Solutions,Gaming
+188,Predictive Systems,Healthcare
+90,Cognitive Computing,Transportation
+36,Algorithmic Solutions,Gaming
+85,Cognitive Computing,Media
+134,Digital Transformation LLC,Telecommunications
+215,Smart Analytics,Finance
+208,Quantum Computing Inc,Technology
+87,Cognitive Computing,Retail
+126,Digital Transformation LLC,Gaming
+120,DeepTech Ventures,Transportation
+139,Future Systems,Energy
+141,Future Systems,Gaming
+135,Digital Transformation LLC,Transportation
+65,Cloud AI Solutions,Finance
+21,Advanced Robotics,Gaming
+129,Digital Transformation LLC,Manufacturing
+110,DeepTech Ventures,Finance
+177,Neural Networks Co,Retail
+22,Advanced Robotics,Government
+128,Digital Transformation LLC,Healthcare
+72,Cloud AI Solutions,Retail
+82,Cognitive Computing,Government
+63,Cloud AI Solutions,Education
+184,Predictive Systems,Energy
+142,Future Systems,Government
+216,Smart Analytics,Gaming
+200,Quantum Computing Inc,Finance
+166,Neural Networks Co,Automotive
+9,AI Innovations,Manufacturing
+136,Future Systems,Automotive
+171,Neural Networks Co,Gaming
+230,TechCorp Inc,Finance
+94,DataVision Ltd,Energy
+195,Predictive Systems,Transportation
+26,Advanced Robotics,Real Estate
+62,Cloud AI Solutions,Consulting
+237,TechCorp Inc,Retail
+146,Future Systems,Real Estate
+221,Smart Analytics,Real Estate
+233,TechCorp Inc,Healthcare
+47,Autonomous Tech,Consulting
+186,Predictive Systems,Gaming
+19,Advanced Robotics,Energy
+38,Algorithmic Solutions,Healthcare
+168,Neural Networks Co,Education
+123,Digital Transformation LLC,Education
+218,Smart Analytics,Healthcare
+132,Digital Transformation LLC,Retail
+190,Predictive Systems,Media
+49,Autonomous Tech,Energy
+70,Cloud AI Solutions,Media
+163,Machine Intelligence Group,Technology
+138,Future Systems,Education
+197,Quantum Computing Inc,Consulting
+111,DeepTech Ventures,Gaming
+23,Advanced Robotics,Healthcare
+3,AI Innovations,Education
+61,Cloud AI Solutions,Automotive
+114,DeepTech Ventures,Manufacturing
+99,DataVision Ltd,Manufacturing
+119,DeepTech Ventures,Telecommunications
+89,Cognitive Computing,Telecommunications
+53,Autonomous Tech,Healthcare
+69,Cloud AI Solutions,Manufacturing
+176,Neural Networks Co,Real Estate
+4,AI Innovations,Energy
+116,DeepTech Ventures,Real Estate
+206,Quantum Computing Inc,Real Estate
+106,DeepTech Ventures,Automotive
+16,Advanced Robotics,Automotive
+33,Algorithmic Solutions,Education
+117,DeepTech Ventures,Retail
+102,DataVision Ltd,Retail
+80,Cognitive Computing,Finance
+210,Quantum Computing Inc,Transportation
+150,Future Systems,Transportation
+34,Algorithmic Solutions,Energy
+238,TechCorp Inc,Technology
+32,Algorithmic Solutions,Consulting
+121,Digital Transformation LLC,Automotive
+194,Predictive Systems,Telecommunications
+207,Quantum Computing Inc,Retail
+214,Smart Analytics,Energy
+158,Machine Intelligence Group,Healthcare
+29,Advanced Robotics,Telecommunications
+93,DataVision Ltd,Education
+124,Digital Transformation LLC,Energy
+133,Digital Transformation LLC,Technology
+179,Neural Networks Co,Telecommunications
+100,DataVision Ltd,Media
+236,TechCorp Inc,Real Estate
+154,Machine Intelligence Group,Energy
+5,AI Innovations,Finance
+189,Predictive Systems,Manufacturing
+101,DataVision Ltd,Real Estate
+198,Quantum Computing Inc,Education
+24,Advanced Robotics,Manufacturing
