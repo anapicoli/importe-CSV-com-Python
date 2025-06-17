@@ -22,6 +22,7 @@
 <!-- EXEMPLO DE DESCRIÇÃO DE UM PROJETO: -->
 - arquivospython
   - insercaodados.py
+  - leituradados.py
   - tratamentodados.py
 
 - arquivossql
@@ -29,12 +30,16 @@
   - procedure_empregosPorPais.sql
   - triggerAuditoria.sql
 
+- csv
+  - ai_job_dataset.csv
+  - empregoHabilidade.csv
+  - empregos.csv
+  - empresas.csv
+  - habilidades.csv
+  - localizacoes.csv
+
 - diagrama
   - diagramaCompensasao.pdf
- 
--kagglehub
-  - archive
-    - ai_job_dataset.csv
 <!-- MODELO DESCRIÇÃO SOBRE O PROJETO: -->
 ## 💻 Sobre o projeto
 
@@ -78,6 +83,3 @@ Você também pode acessar clicando nesse link do Github Pages:
 <!-- MODELO DE AUTOR-->
 ## 🦸 Autor
 Ana Picoli
-
-<!-- ---------------------------------------------------------------------- -->
-# importe-CSV-com-Python
